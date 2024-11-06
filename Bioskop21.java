@@ -1,8 +1,5 @@
-import java.util.Scanner;
-
-    public class Bioskop21 {
+public class Bioskop21 {
         public static void main (String [] args) {
-            Scanner sc = new Scanner (System.in);
 
             String [][] penonton = new String [4][2];
             penonton [0][0] = "Amin";
